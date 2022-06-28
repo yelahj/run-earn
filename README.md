@@ -23,3 +23,10 @@
 
 # 일정
 2022-07 ~ 2022-10
+
+
+# 참고
+### 유니티
+### Resful Api
+### .Net 이더리움 연동
+https://ethereum.org/ko/dot-net/
