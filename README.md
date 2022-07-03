@@ -24,7 +24,7 @@
 4. 맴버4
 
 # 일정 
-[상세](https://github.com/justsoo/run-earn/blob/main/docs/%EA%B2%8C%EC%9E%84-%EA%B8%B0%ED%9A%8D.md)
+[상세](https://github.com/justsoo/run-earn/blob/main/docs/%EC%9D%BC%EC%A0%95.md)
 
 2022-07 ~ 2022-10
 
