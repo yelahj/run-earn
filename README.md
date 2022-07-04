@@ -38,4 +38,3 @@
 ### .Net 이더리움 연동
   - [.NET 개발자를 위한 이더리움](https://ethereum.org/ko/dot-net/)
 
-*
